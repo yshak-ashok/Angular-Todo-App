@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Angular",
+      "completed": true,
+      "important": true
+    },
+    {
+      "id": "053b",
+      "title": "React",
+      "important": true
+    },
+    {
+      "id": "f1ac",
+      "title": "MongoDB",
+      "completed": true
+    },
+    {
+      "id": "ea82",
+      "title": "JavaScript",
+      "important": true
+    },
+    {
+      "id": "a134",
+      "title": "TypeScript",
+      "important": true,
+      "completed": true
+    },
+    {
+      "id": "042e",
+      "title": "HTML",
+      "completed": true
+    },
+    {
+      "id": "b102",
+      "title": "CSS",
+      "completed": true
+    },
+    {
+      "id": "8cdb",
+      "title": "Datastructure",
+      "completed": true,
+      "important": true
+    }
+  ]
+}

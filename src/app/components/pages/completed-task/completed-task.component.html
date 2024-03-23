@@ -1,0 +1,8 @@
+<app-page-title></app-page-title>
+<div class="flex mt-6 flex-col">
+  <app-task-list
+  [taskList]="taskList"
+  (complete)="onComplete($event)"
+  (important)="onImportant($event)"
+></app-task-list>
+</div>
